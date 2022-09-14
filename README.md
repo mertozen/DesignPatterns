@@ -1,2 +1,4 @@
 # DesignPatterns
-Design Patterns 
+Abstract factory methods
+Factory pattern
+Singleton
